@@ -3,6 +3,23 @@
     "name": "Garena_Onmyoji_UI1",
     "previewText": "Onmyoji_Game_Font",
     "main": {
-        "Garena_Onmyoji_UI1-Regular": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+	"ABCGintoNord-ExtraBold": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggsans-Bold": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggsans-BoldItalic": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggsans-ExtraBold": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggsans-Medium": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggsans-MediumItalic": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggsans-Normal": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggsans-NormalItalic": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggsans-Semibold": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "NotoSans-Bold": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "NotoSans-ExtraBold": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "NotoSans-Medium": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "NotoSans-Normal": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "NotoSans-NormalItalic": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "NotoSans-Semibold": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+        "ggmono-Normal": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf"
     }
 }
