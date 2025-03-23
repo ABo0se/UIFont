@@ -1,10 +1,8 @@
 {
-    "fonts": [
-        {
-            "name": "Garena_Onmyoji_UI1",
-            "postscript": "Garena_Onmyoji_UI1",
-            "style": "Regular",
-            "file": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf"
-        }
-    ]
+    "spec": 1,
+    "name": "Garena_Onmyoji_UI1",
+    "previewText": "Onmyoji_Game_Font",
+    "main": {
+        "Garena_Onmyoji_UI1-Regular": "https://github.com/ABo0se/UIFont/raw/refs/heads/main/uifont.ttf",
+    }
 }
