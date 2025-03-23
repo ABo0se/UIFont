@@ -1,0 +1,10 @@
+{
+    "fonts": [
+        {
+            "name": "Garena_Onmyoji_UI1",
+            "postscript": "Garena_Onmyoji_UI1",
+            "style": "Regular",
+            "file": "https://github.com/ABo0se/UIFont/blob/main/uifont.ttf"
+        }
+    ]
+}
